@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WahabRizvi0786
+- 👋 Hi, I’m @WahabRizvi
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
